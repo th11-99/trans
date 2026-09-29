@@ -1,0 +1,4 @@
+[server]
+# Only accept connections from this computer, so others on the network
+# cannot use the app (and your OpenAI API key).
+address = "localhost"
